@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+}
+canvas {
+  display: block;
+  border:1px solid black;
+}
+project {
+  letter-spacing: 10px;
+}
